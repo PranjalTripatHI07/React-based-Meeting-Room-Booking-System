@@ -147,12 +147,6 @@ meeting-app/
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [ISC License](https://opensource.org/licenses/ISC).
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
@@ -160,5 +154,5 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/PranjalTripatHI07">PranjalTripatHI07</a> using React + Vite
+  Made by <a href="https://github.com/PranjalTripatHI07">PranjalTripatHI07</a> using React + Vite
 </p>
