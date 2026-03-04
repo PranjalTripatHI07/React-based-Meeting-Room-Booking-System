@@ -41,7 +41,7 @@ A modern, responsive React-based meeting room booking system with a Google Works
 
 | Feature | Description |
 |---|---|
-| 🏠 **Predefined Rooms** | Conference Room A, Meeting Room B, Board Room C — each with a unique color indicator |
+| 🏠 **3 Predefined Rooms** | Conference Room A, Meeting Room B, Board Room C — each with a unique color indicator |
 | 🚫 **Overlap Prevention** | Prevents double-booking the same room at overlapping times |
 | ⏰ **Time Validation** | Ensures start time is earlier than end time |
 | 💬 **Meaningful Errors** | Specific error messages showing which room and time slot conflicts |
