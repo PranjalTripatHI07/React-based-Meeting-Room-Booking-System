@@ -1,6 +1,7 @@
 # 🏢 React Meeting Room Booking System
 
-A modern, responsive React-based meeting room booking system with a Google Workspace-inspired UI. Quickly book predefined rooms, view upcoming bookings, and get instant feedback on scheduling conflicts.
+
+React-based Meeting Room Booking System with time validation and overlap prevention. Users can book predefined rooms, view existing bookings, and receive meaningful error messages for conflicts.
 
 ![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8.0-646CFF?logo=vite&logoColor=white)
